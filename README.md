@@ -1,5 +1,5 @@
 # HTB
 
-My REPO with AUTO-PWN's
+My REPO with AUTO-PWN's for HTB Machines
 
-Written in Python3
+Written mostly in Python3
